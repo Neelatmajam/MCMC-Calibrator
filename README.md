@@ -67,7 +67,7 @@ Then we model that spread as an Ornstein-Uhlenbeck process and use MCMC to estim
 
 ## Contributors
 
-Neelatmajam Dwivedi - 240687
+Neelatmajam Dwivedi - 240687  
 Aditya Kukreti - 240058  
 Palash Lahoti - 240721
 
