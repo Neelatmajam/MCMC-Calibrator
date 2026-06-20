@@ -64,3 +64,8 @@ Then we model that spread as an Ornstein-Uhlenbeck process and use MCMC to estim
 - `mu`: long-term mean
 - `sigma`: process volatility
 - `half-life`: expected time for the spread deviation to reduce by half
+
+## Contributors
+
+Aditya Kukreti - 240058  
+
