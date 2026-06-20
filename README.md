@@ -69,5 +69,10 @@ Then we model that spread as an Ornstein-Uhlenbeck process and use MCMC to estim
 
 Neelatmajam Dwivedi - 240687  
 Aditya Kukreti - 240058  
-Palash Lahoti - 240721
+Palash Lahoti - 240721  
+Prithvijeet Bhattacharya - 240799  
+Sohan Kadam  - 240506  
+Ved Kartikey - 241150  
+Kiran Khandu - 240547  
+
 
