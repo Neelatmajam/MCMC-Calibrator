@@ -72,7 +72,7 @@ Aditya Kukreti - 240058
 Palash Lahoti - 240721  
 Prithvijeet Bhattacharya -  240799  
 Kadam Sohan Santosh - 240506
-Ved Kartikey - 241150  
+Ved   Kartikey - 241150  
 Kiran Khandu - 240547  
 
 
